@@ -5,6 +5,9 @@ __pycache__/
 
 # C extensions
 *.so
+#DATA
+data/AdventureWorksDW2019.bak
+data/AdventureWorks2019.bak
 
 # Distribution / packaging
 .Python
